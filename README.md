@@ -12,7 +12,7 @@ This is a simple Node.js Express API that connects to a MongoDB database and ret
 ## Installation
 
 1. Clone this repository:  
-`git clone `
+`git clone https://github.com/codezilla322/centivo-coding-task.git`
 
 2. Install dependencies:  
 `npm install`
